@@ -1,15 +1,11 @@
 # Faitagram - Don't Use This (Doesn't work anymore)-
-A Bruter for FAcebook, twITter, and InstAGRAM. Made with python, developed from brut3k1t.
+A Bruter for FAcebook, twITter, and InstAGRAM. Made with python
 
 [You will need python!]
 
 CREDIT:
 
-  This project was developed from brut3k1t,which was made by ex0dus-0x.
-  Here is the page : https://github.com/ex0dus-0x/brut3k1t
-  Since this script was not functionning, and was not ready for a attack, so I decided to develop this program from his.
-
-
+  This project was developed from brut3k1t,which was made by Luna
 I am not responsible for your action.
 
 
@@ -52,10 +48,6 @@ Memorize:
     In facebook, you would have to type the email in the -u.
 
     In facebook, the script will ask you the Name of the target.
-
-Specific tutorial will be on NullByte, I would put a link after I make a tutorial:
-
-   https://null-byte.wonderhowto.com/forum/hacking-facebook-twitter-instagram-account-passwords-with-bruteforce-0181808/
 
 How it works:
 
