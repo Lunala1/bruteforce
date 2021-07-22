@@ -5,7 +5,7 @@ A Bruter for FAcebook, twITter, and InstAGRAM. Made with python
 
 CREDIT:
 
-  This project was developed from brut3k1t,which was made by Luna
+  This project was developed from root,which was made by Luna
 I am not responsible for your action.
 
 
